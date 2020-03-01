@@ -1,0 +1,115 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; }
+
+img {
+  width: 100%;
+  height: auto; }
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px; }
+
+.row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; }
+
+.column {
+  position: relative; }
+
+.column-1 {
+  flex: 1; }
+
+.column-2 {
+  flex: 2; }
+
+.logo {
+  max-width: 120px;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%); }
+
+.navbar-item {
+  padding: 60px 20px;
+  text-align: center;
+  text-decoration: none;
+  flex: 1;
+  color: #333; }
+
+.primary-content {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fafafa;
+  padding: 60px;
+  margin-top: 20px;
+  display: flex; }
+
+.hero-h1 {
+  text-align: left;
+  line-height: 1; }
+
+.text-handwritten {
+  font-family: "Kalam"; }
+
+.auto-center {
+  flex: 1;
+  display: flex;
+  align-self: center;
+  flex-direction: column; }
+
+.hero-img {
+  padding: 30px;
+  display: block; }
+
+.hero-p {
+  font-weight: 200;
+  display: block;
+  letter-spacing: 1.75px;
+  line-height: 1.9; }
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center; }
+
+.gallery-element {
+  display: flex;
+  height: 0;
+  width: 100%;
+  padding-bottom: 66.66%;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.5s;
+  transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+  .gallery-element img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transition: transform 0.5s;
+    transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+  .gallery-element span {
+    position: absolute;
+    color: #fff;
+    font-size: 1.5rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.25);
+    line-height: 1;
+    margin: 0;
+    white-space: nowrap; }
+  .gallery-element:hover {
+    transform: scale(0.97); }
+    .gallery-element:hover img {
+      transform: scale(1.1); }
+
+.p-1 {
+  padding: 0.25em; }
