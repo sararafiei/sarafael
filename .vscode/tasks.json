@@ -1,0 +1,24 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558 
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "gulp",
+            "script": "watch",
+            "path": "",
+            "fileName": "gulpfile.js",
+            "uri": {
+                "$mid": 1,
+                "fsPath": "/Users/sararafiei/sarafael/gulpfile.js",
+                "external": "file:///Users/sararafiei/sarafael/gulpfile.js",
+                "path": "/Users/sararafiei/sarafael/gulpfile.js",
+                "scheme": "file"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
