@@ -1,0 +1,47 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 02 2020 11:19:02 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-2-2-2020-10-48-50.txt
+* "images/november-2019/2020-03-01 22:14:08 +0000-1.mov"
+* images/november-2019/DDF55F5D-ECE2-409F-BDE8-CB8B695A287A-6537-0000051BA4BEE312.mov
+* images/november-2019/IMG_0533.jpeg
+* images/november-2019/IMG_0536.jpeg
+* images/november-2019/IMG_0542.jpeg
+* images/november-2019/IMG_0557.jpeg
+* images/november-2019/IMG_0563.jpeg
+* images/november-2019/IMG_0584.jpeg
+* images/november-2019/IMG_0598.jpeg
+* images/november-2019/IMG_0602.jpeg
+* images/november-2019/IMG_0616.jpeg
+* images/november-2019/IMG_0623.jpeg
+* images/november-2019/IMG_0627.jpeg
+* images/november-2019/IMG_0628.jpeg
+* images/november-2019/IMG_0632.mov
+* images/november-2019/IMG_0633.jpeg
+* images/november-2019/IMG_0639.jpeg
+* images/november-2019/IMG_0641.jpeg
+* images/november-2019/IMG_0646.jpeg
+* images/november-2019/IMG_0660.jpeg
+* images/november-2019/IMG_0869.jpeg
+* images/november-2019/IMG_0945.jpeg
+* images/november-2019/IMG_1137.jpeg
+* images/november-2019/IMG_1227.jpeg
+* images/october-2019/19f72ce3-4b00-4d9c-94ac-22dcc6623bc7.jpeg
+* "images/october-2019/2020-03-01 21:43:55 +0000-1.mov"
+* images/october-2019/IMG_0506.jpeg
+* images/october-2019/IMG_0511.jpeg
+* images/october-2019/IMG_0997.jpeg
+* images/october-2019/IMG_1087.jpeg
+* images/october-2019/IMG_1091.jpeg
+* images/october-2019/IMG_3127.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
