@@ -1,0 +1,10 @@
+{
+  "name": "sarafael",
+  "version": "1.0.0",
+  "description": "Sara and Rafael website",
+  "main": "index.js",
+  "repository": "https://github.com/sararafiei/sarafael.git",
+  "author": "Sara Rafiei",
+  "license": "MIT",
+  "private": true
+}
