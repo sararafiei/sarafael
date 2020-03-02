@@ -1,0 +1,35 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 02 2020 15:20:28 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-2-2-2020-14-50-25.txt
+* images/february-2020/IMG_2817.jpeg
+* images/february-2020/IMG_2819.jpeg
+* images/february-2020/IMG_2851.jpeg
+* images/february-2020/IMG_2868.jpeg
+* images/february-2020/IMG_2873.jpeg
+* images/february-2020/IMG_2914.jpeg
+* images/february-2020/IMG_2918.jpeg
+* images/february-2020/IMG_2928.jpeg
+* images/february-2020/IMG_2943.jpeg
+* images/february-2020/IMG_2958.jpeg
+* images/february-2020/IMG_2967.jpeg
+* images/february-2020/IMG_2968.mov
+* images/february-2020/IMG_2984.jpeg
+* images/february-2020/IMG_2993.jpeg
+* images/february-2020/IMG_3016.jpeg
+* images/february-2020/IMG_3023.jpeg
+* images/february-2020/a72e69cf-aacc-4d9e-ad82-83c13c409ff0.jpeg
+* images/february-2020/c16a8e10-004e-4d9f-91a5-86060125eda1.jpeg
+* images/february-2020/highres_488780685.jpeg
+* images/january-2020/IMG_2808.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
