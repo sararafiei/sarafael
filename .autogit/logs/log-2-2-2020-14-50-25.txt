@@ -1,0 +1,47 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 02 2020 14:50:25 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-2-2-2020-14-20-9.txt
+* images/december-2019/IMG_2140.jpeg
+* images/december-2019/IMG_2164.jpeg
+* images/farm-holiday-2019/IMG_2065.mov
+* images/farm-holiday-2019/IMG_2105.jpeg
+* images/farm-holiday-2019/IMG_2115.jpeg
+* images/farm-holiday-2019/IMG_2139.jpeg
+* images/farm-holiday-2019/IMG_2392.jpeg
+* images/january-2020/IMG_2205.jpeg
+* images/january-2020/IMG_2225.mov
+* images/january-2020/IMG_2227.jpeg
+* images/january-2020/IMG_2229.jpeg
+* images/january-2020/IMG_2232.jpeg
+* images/january-2020/IMG_2237.jpeg
+* images/january-2020/IMG_2243.jpeg
+* images/january-2020/IMG_2253.jpeg
+* images/january-2020/IMG_2269.jpeg
+* images/january-2020/IMG_2538.mov
+* images/january-2020/IMG_2553.jpeg
+* images/january-2020/IMG_2566.mov
+* images/january-2020/IMG_2575.jpeg
+* images/january-2020/IMG_2590.mov
+* images/january-2020/IMG_2607.jpeg
+* images/january-2020/IMG_2611.jpeg
+* images/january-2020/IMG_2621.mov
+* images/january-2020/IMG_2628.mov
+* images/january-2020/IMG_2671.jpeg
+* images/january-2020/IMG_2689.jpeg
+* images/january-2020/IMG_2762.mov
+* images/january-2020/IMG_2793.jpeg
+* images/new-years-eve/IMG_2177.jpeg
+* images/new-years-eve/IMG_2181.mov
+* images/new-years-eve/IMG_2196.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
