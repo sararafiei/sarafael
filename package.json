@@ -8,11 +8,18 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2"
+    "sharp-cli": "^1.13.1"
   },
   "scripts": {
     "buildStyles": "gulp sass",
     "devStyles": "gulp sass:watch"
+  },
+  "devDependencies": {
+    "event-stream": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.15",
+    "sharp": "^0.24.1"
   }
 }

@@ -1,0 +1,1 @@
+npx sharp resize 800 600 --fit inside -m -p -i ./images/**/*.jpeg -o {dir}

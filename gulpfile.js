@@ -2,7 +2,7 @@
 
 var gulp = require('gulp');
 var sass = require('gulp-sass');
-var gulpSharp = require('gulp-sharp');
+var gulpSharp = require('./local_gulp/gulp-sharp');
 
 sass.compiler = require('node-sass');
 
