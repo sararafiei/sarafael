@@ -1,0 +1,41 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 02 2020 13:50:04 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-2-2-2020-13-19-44.txt
+* "images/christmas 24:25-2019/3147430a-dc15-4e7a-bf88-1ce7d41aec17.jpeg"
+* "images/christmas 24:25-2019/51befe0d-f49a-44e5-bf17-ee17cf3297f3.jpeg"
+* "images/christmas 24:25-2019/6367c711-a0ef-46e6-9a36-798a06af6a09.jpeg"
+* "images/christmas 24:25-2019/749972a3-cb46-4021-a633-33e9a0d8cf47.jpeg"
+* "images/christmas 24:25-2019/88e7584f-0ba9-468c-8d58-76f1e95c9b4e.jpeg"
+* "images/christmas 24:25-2019/933839c7-54a4-43be-90bb-421128516793.jpeg"
+* "images/christmas 24:25-2019/IMG_1488.jpeg"
+* "images/christmas 24:25-2019/IMG_1492.jpeg"
+* "images/christmas 24:25-2019/IMG_1494.jpeg"
+* "images/christmas 24:25-2019/IMG_1495.jpeg"
+* "images/christmas 24:25-2019/IMG_1505.jpeg"
+* "images/christmas 24:25-2019/IMG_1515.jpeg"
+* "images/christmas 24:25-2019/IMG_1522.jpeg"
+* "images/christmas 24:25-2019/IMG_1527.mov"
+* "images/christmas 24:25-2019/IMG_1528.mov"
+* "images/christmas 24:25-2019/IMG_1529.mov"
+* "images/christmas 24:25-2019/IMG_1530.mov"
+* "images/christmas 24:25-2019/IMG_1540.jpeg"
+* "images/christmas 24:25-2019/IMG_1542.jpeg"
+* "images/christmas 24:25-2019/IMG_1547.jpeg"
+* "images/christmas 24:25-2019/IMG_1556.jpeg"
+* "images/christmas 24:25-2019/b6108953-7b62-4bb1-b962-5c2a0679dc31.jpeg"
+* images/december-2019/IMG_1448.jpeg
+* images/december-2019/IMG_1463.jpeg
+* images/december-2019/IMG_1484.jpeg
+* images/december-2019/IMG_3137.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
