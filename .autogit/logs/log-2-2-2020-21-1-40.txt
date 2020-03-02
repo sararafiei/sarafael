@@ -1,0 +1,251 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 02 2020 21:01:40 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* .DS_Store
+* gulpfile.js
+* images/.DS_Store
+* images/august-2019/IMG_0375.jpeg
+* images/august-2019/IMG_9783.jpeg
+* images/august-2019/IMG_9786.jpeg
+* images/august-2019/IMG_9795.jpeg
+* images/august-2019/IMG_9805.jpeg
+* images/august-2019/IMG_9848.jpeg
+* images/august-2019/IMG_9849.jpeg
+* images/august-2019/IMG_9867.jpeg
+* images/august-2019/IMG_9890.jpeg
+* images/august-2019/IMG_9891.jpeg
+* images/august-2019/IMG_9892.jpeg
+* images/august-2019/IMG_9896.jpeg
+* images/august-2019/IMG_9897.jpeg
+* images/august-2019/IMG_9902.jpeg
+* images/august-2019/IMG_9912.jpeg
+* images/august-2019/IMG_9913.jpeg
+* "images/christmas 24_25-2019/3147430a-dc15-4e7a-bf88-1ce7d41aec17.jpeg"
+* "images/christmas 24_25-2019/51befe0d-f49a-44e5-bf17-ee17cf3297f3.jpeg"
+* "images/christmas 24_25-2019/6367c711-a0ef-46e6-9a36-798a06af6a09.jpeg"
+* "images/christmas 24_25-2019/749972a3-cb46-4021-a633-33e9a0d8cf47.jpeg"
+* "images/christmas 24_25-2019/88e7584f-0ba9-468c-8d58-76f1e95c9b4e.jpeg"
+* "images/christmas 24_25-2019/933839c7-54a4-43be-90bb-421128516793.jpeg"
+* "images/christmas 24_25-2019/IMG_1488.jpeg"
+* "images/christmas 24_25-2019/IMG_1492.jpeg"
+* "images/christmas 24_25-2019/IMG_1494.jpeg"
+* "images/christmas 24_25-2019/IMG_1495.jpeg"
+* "images/christmas 24_25-2019/IMG_1505.jpeg"
+* "images/christmas 24_25-2019/IMG_1515.jpeg"
+* "images/christmas 24_25-2019/IMG_1522.jpeg"
+* "images/christmas 24_25-2019/IMG_1540.jpeg"
+* "images/christmas 24_25-2019/IMG_1542.jpeg"
+* "images/christmas 24_25-2019/IMG_1547.jpeg"
+* "images/christmas 24_25-2019/IMG_1556.jpeg"
+* "images/christmas 24_25-2019/b6108953-7b62-4bb1-b962-5c2a0679dc31.jpeg"
+* images/december-2019/IMG_1175.jpeg
+* images/december-2019/IMG_1248.jpeg
+* images/december-2019/IMG_1262.jpeg
+* images/december-2019/IMG_1280.jpeg
+* images/december-2019/IMG_1292.jpeg
+* images/december-2019/IMG_1298.jpeg
+* images/december-2019/IMG_1312.jpeg
+* images/december-2019/IMG_1405.jpeg
+* images/december-2019/IMG_1448.jpeg
+* images/december-2019/IMG_1463.jpeg
+* images/december-2019/IMG_1484.jpeg
+* images/december-2019/IMG_1501.jpeg
+* images/december-2019/IMG_1691.jpeg
+* images/december-2019/IMG_2140.jpeg
+* images/december-2019/IMG_2164.jpeg
+* images/december-2019/IMG_3135.jpeg
+* images/december-2019/IMG_3136.jpeg
+* images/december-2019/IMG_3137.jpeg
+* images/december-2019/IMG_3138.jpeg
+* images/farm-holiday-2019/IMG_1634.jpeg
+* images/farm-holiday-2019/IMG_1649.jpeg
+* images/farm-holiday-2019/IMG_1653.jpeg
+* images/farm-holiday-2019/IMG_1718.jpeg
+* images/farm-holiday-2019/IMG_1771.jpeg
+* images/farm-holiday-2019/IMG_1780.jpeg
+* images/farm-holiday-2019/IMG_1782.jpeg
+* images/farm-holiday-2019/IMG_1791.jpeg
+* images/farm-holiday-2019/IMG_1792.jpeg
+* images/farm-holiday-2019/IMG_1809.jpeg
+* images/farm-holiday-2019/IMG_1815.jpeg
+* images/farm-holiday-2019/IMG_1821.jpeg
+* images/farm-holiday-2019/IMG_1837.jpeg
+* images/farm-holiday-2019/IMG_1870.jpeg
+* images/farm-holiday-2019/IMG_1918.jpeg
+* images/farm-holiday-2019/IMG_1948.jpeg
+* images/farm-holiday-2019/IMG_1975.jpeg
+* images/farm-holiday-2019/IMG_2025.jpeg
+* images/farm-holiday-2019/IMG_2035.jpeg
+* images/farm-holiday-2019/IMG_2059.jpeg
+* images/farm-holiday-2019/IMG_2070.jpeg
+* images/farm-holiday-2019/IMG_2092.jpeg
+* images/farm-holiday-2019/IMG_2094.jpeg
+* images/farm-holiday-2019/IMG_2099.jpeg
+* images/farm-holiday-2019/IMG_2105.jpeg
+* images/farm-holiday-2019/IMG_2115.jpeg
+* images/farm-holiday-2019/IMG_2139.jpeg
+* images/farm-holiday-2019/IMG_2392.jpeg
+* images/february-2020/IMG_2817.jpeg
+* images/february-2020/IMG_2819.jpeg
+* images/february-2020/IMG_2851.jpeg
+* images/february-2020/IMG_2868.jpeg
+* images/february-2020/IMG_2873.jpeg
+* images/february-2020/IMG_2914.jpeg
+* images/february-2020/IMG_2918.jpeg
+* images/february-2020/IMG_2928.jpeg
+* images/february-2020/IMG_2943.jpeg
+* images/february-2020/IMG_2958.jpeg
+* images/february-2020/IMG_2967.jpeg
+* images/february-2020/IMG_2984.jpeg
+* images/february-2020/IMG_2993.jpeg
+* images/february-2020/IMG_3016.jpeg
+* images/february-2020/IMG_3023.jpeg
+* images/february-2020/IMG_3028.jpeg
+* images/february-2020/IMG_3030.jpeg
+* images/february-2020/IMG_3052.jpeg
+* images/february-2020/IMG_3061.jpeg
+* images/february-2020/IMG_3103.jpeg
+* images/february-2020/IMG_3140.jpeg
+* images/february-2020/IMG_3142.jpeg
+* images/february-2020/a72e69cf-aacc-4d9e-ad82-83c13c409ff0.jpeg
+* images/february-2020/c16a8e10-004e-4d9f-91a5-86060125eda1.jpeg
+* images/february-2020/highres_488780685.jpeg
+* images/january-2020/IMG_2205.jpeg
+* images/january-2020/IMG_2227.jpeg
+* images/january-2020/IMG_2229.jpeg
+* images/january-2020/IMG_2232.jpeg
+* images/january-2020/IMG_2237.jpeg
+* images/january-2020/IMG_2243.jpeg
+* images/january-2020/IMG_2253.jpeg
+* images/january-2020/IMG_2269.jpeg
+* images/january-2020/IMG_2553.jpeg
+* images/january-2020/IMG_2575.jpeg
+* images/january-2020/IMG_2607.jpeg
+* images/january-2020/IMG_2611.jpeg
+* images/january-2020/IMG_2671.jpeg
+* images/january-2020/IMG_2689.jpeg
+* images/january-2020/IMG_2793.jpeg
+* images/january-2020/IMG_2808.jpeg
+* images/july-2019/Facetune_26-07-2019-23-08-01.jpeg
+* images/july-2019/IMG_0030.jpeg
+* images/july-2019/IMG_0032.jpeg
+* images/july-2019/IMG_0075.jpeg
+* images/july-2019/IMG_0192.jpeg
+* images/july-2019/IMG_0318.jpeg
+* images/july-2019/IMG_0326.jpeg
+* images/july-2019/IMG_0329.jpeg
+* images/july-2019/IMG_3027.jpeg
+* images/july-2019/IMG_9434.jpeg
+* "images/july-2019/IMG_9452 (1).jpeg"
+* images/july-2019/IMG_9452.jpeg
+* images/july-2019/IMG_9460.jpeg
+* images/july-2019/IMG_9461.jpeg
+* images/july-2019/IMG_9487.jpeg
+* images/july-2019/IMG_9491.jpeg
+* images/july-2019/IMG_9492.jpeg
+* images/july-2019/IMG_9503.jpeg
+* images/july-2019/IMG_9504.jpeg
+* images/july-2019/IMG_9516.jpeg
+* images/july-2019/IMG_9517.jpeg
+* images/july-2019/IMG_9545.jpeg
+* images/july-2019/IMG_9549.jpeg
+* images/july-2019/IMG_9573.jpeg
+* images/july-2019/IMG_9579.jpeg
+* images/july-2019/IMG_9620.jpeg
+* images/july-2019/IMG_9644.jpeg
+* images/july-2019/IMG_9687.jpeg
+* images/july-2019/IMG_9688.jpeg
+* images/july-2019/IMG_9709.jpeg
+* images/july-2019/IMG_9721.jpeg
+* images/july-2019/IMG_9737.jpeg
+* images/july-2019/IMG_9738.jpeg
+* images/july-2019/IMG_9741.jpeg
+* images/july-2019/IMG_9751.jpeg
+* images/july-2019/IMG_9768.jpeg
+* images/july-2019/IMG_9769.jpeg
+* "images/logo/Saraphel copy.jpeg"
+* images/logo/Saraphel.jpeg
+* images/march-2020/IMG_3114.jpeg
+* images/new-years-eve/IMG_2177.jpeg
+* images/new-years-eve/IMG_2196.jpeg
+* images/november-2019/IMG_0533.jpeg
+* images/november-2019/IMG_0536.jpeg
+* images/november-2019/IMG_0542.jpeg
+* images/november-2019/IMG_0557.jpeg
+* images/november-2019/IMG_0563.jpeg
+* images/november-2019/IMG_0584.jpeg
+* images/november-2019/IMG_0598.jpeg
+* images/november-2019/IMG_0602.jpeg
+* images/november-2019/IMG_0616.jpeg
+* images/november-2019/IMG_0623.jpeg
+* images/november-2019/IMG_0627.jpeg
+* images/november-2019/IMG_0628.jpeg
+* images/november-2019/IMG_0633.jpeg
+* images/november-2019/IMG_0639.jpeg
+* images/november-2019/IMG_0641.jpeg
+* images/november-2019/IMG_0646.jpeg
+* images/november-2019/IMG_0660.jpeg
+* images/november-2019/IMG_0869.jpeg
+* images/november-2019/IMG_0945.jpeg
+* images/november-2019/IMG_0967.jpeg
+* images/november-2019/IMG_0968.jpeg
+* images/november-2019/IMG_0993.jpeg
+* images/november-2019/IMG_1072.jpeg
+* images/november-2019/IMG_1083.jpeg
+* images/november-2019/IMG_1095.jpeg
+* images/november-2019/IMG_1099.jpeg
+* images/november-2019/IMG_1105.jpeg
+* images/november-2019/IMG_1109.jpeg
+* images/november-2019/IMG_1129.jpeg
+* images/november-2019/IMG_1137.jpeg
+* images/november-2019/IMG_1138.jpeg
+* images/november-2019/IMG_1172.jpeg
+* images/november-2019/IMG_1227.jpeg
+* images/november-2019/IMG_1236.jpeg
+* images/november-2019/IMG_1238.jpeg
+* images/november-2019/IMG_1404.jpeg
+* images/november-2019/IMG_1484.jpeg
+* images/november-2019/IMG_3130.jpeg
+* images/october-2019/19f72ce3-4b00-4d9c-94ac-22dcc6623bc7.jpeg
+* images/october-2019/IMG_0218.jpeg
+* images/october-2019/IMG_0246.jpeg
+* images/october-2019/IMG_0268.jpeg
+* images/october-2019/IMG_0282.jpeg
+* images/october-2019/IMG_0318.jpeg
+* images/october-2019/IMG_0319.jpeg
+* images/october-2019/IMG_0320.jpeg
+* images/october-2019/IMG_0347.jpeg
+* images/october-2019/IMG_0506.jpeg
+* images/october-2019/IMG_0511.jpeg
+* images/october-2019/IMG_0885.jpeg
+* images/october-2019/IMG_0983.jpeg
+* images/october-2019/IMG_0997.jpeg
+* images/october-2019/IMG_1087.jpeg
+* images/october-2019/IMG_1091.jpeg
+* images/october-2019/IMG_3127.jpeg
+* images/september-2019/IMG_0043.jpeg
+* images/september-2019/IMG_0071.jpeg
+* images/september-2019/IMG_0118.jpeg
+* images/september-2019/IMG_0642.jpeg
+* images/september-2019/IMG_0655.jpeg
+* images/september-2019/IMG_3124.jpeg
+* images/september-2019/IMG_9927.jpeg
+* images/september-2019/IMG_9946.jpeg
+* images/september-2019/IMG_9950.jpeg
+* images/september-2019/IMG_9983.jpeg
+* images/september-2019/IMG_9997.jpeg
+* package.json
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-2-2-2020-19-58-39.txt
+* commands.md
+
+
+Deleted files:
+
+
+Renamed files:
