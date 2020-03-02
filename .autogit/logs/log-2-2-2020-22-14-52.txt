@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 02 2020 22:14:52 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* .DS_Store
+* css/style.css
+* gulpfile.js
+* index.html
+* sass/style.scss
+
+
+Created files:
+* .autogit/logs/log-2-2-2020-21-1-40.txt
+* august-2019/index.html
+* july-2019/index.html
+
+
+Deleted files:
+* "images/july-2019/IMG_9452 (1).jpeg"
+
+
+Renamed files:
