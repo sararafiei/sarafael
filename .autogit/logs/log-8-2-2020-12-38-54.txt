@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Mar 08 2020 12:38:54 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* .DS_Store
+
+
+Created files:
+* .autogit/logs/log-8-2-2020-8-52-11.txt
+
+
+Deleted files:
+
+
+Renamed files:
