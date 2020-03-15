@@ -1,0 +1,36 @@
+-------------------- Auto-Git Log --------------------
+		Sun Mar 15 2020 20:42:04 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* images/.DS_Store
+
+
+Created files:
+* .autogit/logs/log-15-2-2020-20-11-53.txt
+* "images/march-2020/2020-03-04 20:10:10 +0000-1.mov"
+* "images/march-2020/2020-03-07 06:39:00 +0000-1.mov"
+* "images/march-2020/2020-03-14 07:07:41 +0000-1.mov"
+* "images/march-2020/2020-03-14 07:07:52 +0000-1.mov"
+* "images/march-2020/2020-03-15 02:29:21 +0000-1.mov"
+* images/march-2020/IMG_3143.jpeg
+* images/march-2020/IMG_3155.jpeg
+* images/march-2020/IMG_3193.jpeg
+* images/march-2020/IMG_3207.jpeg
+* images/march-2020/IMG_3221.jpeg
+* images/march-2020/IMG_3344.jpeg
+* images/march-2020/IMG_3348.jpeg
+* images/march-2020/IMG_3408.jpeg
+* images/march-2020/IMG_3412.jpeg
+* images/march-2020/IMG_3447.jpeg
+* images/march-2020/IMG_3472.jpeg
+* images/march-2020/IMG_3483.jpeg
+* images/march-2020/IMG_3510.jpeg
+* images/march-2020/IMG_3511.jpeg
+* images/march-2020/IMG_3512.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
