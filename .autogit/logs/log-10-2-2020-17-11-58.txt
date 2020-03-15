@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Mar 10 2020 17:11:58 GMT+1300 (New Zealand Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-9-2-2020-7-12-46.txt
+
+
+Deleted files:
+
+
+Renamed files:
